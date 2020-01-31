@@ -1,0 +1,11 @@
+.hofcomponent-wrapper {
+    background-color: purple;
+    
+    grid-template-columns: 1fr;
+}
+.hof-players-wrapper {
+    
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    justify-content: center;
+}
